@@ -1,16 +1,44 @@
-## Hi there 👋
+# Olá, eu sou o Miguel 👋
 
-<!--
-**miguelsert/miguelsert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Informática e tenho interesse na área de programação, desenvolvimento web, design gráfico e arquitetura de computadores.  
+Estou a desenvolver as minhas competências por enquanto querendo sempre aprender mais.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+- Python
+- C, C++c C#
+- HTML, CSS
+- JavaScript (básico)
+- Git e GitHub
+- MySQL
+
+---
+
+## 📚 Atualmente a aprender
+
+- JavaScript 
+- Python
+- C
+- C++
+- C#
+- Desenvolvimento Web
+- Design Gráfico
+
+---
+
+## 🎯 Objetivos
+
+- Tornar-me programador web
+- Trabalhar em projetos reais
+- Melhorar as minhas competências em programação
+- Saber mais sobre as linguagens de programação que aprendi e estou a aprender
+- Trabalhar em design gráfico
+
+---
+
+## 📫 Contacto
+
+- Email: miguelmoreira2009utilizar@gmail.com
+- GitHub: https://github.com/miguelsert
