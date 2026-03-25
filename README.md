@@ -8,10 +8,10 @@ Estou a desenvolver as minhas competências por enquanto querendo sempre aprende
 ## 🚀 Tecnologias
 
 - Python
-- C, C++c C#
+- C
 - HTML, CSS
 - JavaScript (básico)
-- Git e GitHub
+- Git
 - MySQL
 
 ---
@@ -25,6 +25,9 @@ Estou a desenvolver as minhas competências por enquanto querendo sempre aprende
 - C#
 - Desenvolvimento Web
 - Design Gráfico
+- Git
+- HTML
+- CSS
 
 ---
 
